@@ -1,4 +1,4 @@
-palette = 0=#181818
+palette = 0=#0a0d14
 palette = 1=#d14b4b
 palette = 2=#4b7d55
 palette = 3=#d98e48
@@ -15,7 +15,7 @@ palette = 13=#d3a7d3
 palette = 14=#9dccbb
 palette = 15=#ffffff
 
-background = #181818
+background = #0a0d14 
 foreground = #d0d0d0
 cursor-color = #d98e48
 selection-background = #363636
@@ -24,10 +24,10 @@ selection-foreground = #d0d0d0
 window-width = 5000
 window-height = 5000
 
-macos-titlebar-style = tabs 
+macos-titlebar-style = hidden 
 
 window-theme = dark
-background-opacity = 0.7
+background-opacity = 0.6
 background-blur-radius = 20
 font-family = "JetBrainsMonoNL Nerd Font Mono"
 font-size = 16
